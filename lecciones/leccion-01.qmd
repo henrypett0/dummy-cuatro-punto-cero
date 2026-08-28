@@ -3,10 +3,6 @@ title: "Lección 1: Experimenta con el interés compuesto"
 description: "Cambia la tasa y el plazo, y corre el código tú mismo"
 date: "2026-01-20"
 engine: markdown
-filters:
-  - webr
-webr:
-  show-startup-message: true
 ---
 
 ## Aquí tú corres el código
