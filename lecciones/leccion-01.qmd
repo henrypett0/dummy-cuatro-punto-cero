@@ -13,3 +13,6 @@ Los bloques de abajo son editables: cambia los números, presiona **Run Code** y
 resultado se actualiza. R corre dentro de tu navegador, así que puedes equivocarte
 todas las veces que quieras sin romper nada.
 
+```{r}
+summary(iris)
+```
